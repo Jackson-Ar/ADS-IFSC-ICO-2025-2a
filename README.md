@@ -1,2 +1,2 @@
 # ADS-IFSC-ICO-2025-2a
-Repositorio para estudos 
+Repositorio voltado para as aulas de ICO
